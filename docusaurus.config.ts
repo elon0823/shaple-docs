@@ -85,8 +85,16 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
+              label: 'About Shaple',
+              to: '/docs/intro',
+            },
+            {
               label: 'Getting started',
-              to: '/docs/getting-started',
+              to: '/docs/category/getting-started',
+            },
+            {
+              label: 'API Reference',
+              to: '/docs/category/api-reference',
             },
           ],
         },

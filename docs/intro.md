@@ -41,14 +41,14 @@ sidebar_position: 1
 - 🗂 **Database**
   - [PostgreSQL](https://www.postgresql.org/) 를 사용하며 client SDK 를 통해 편리하게 db 에 접근하고 RLS(Row Level Security)를 통해 안전하게 데이터를 관리할 수 있습니다.
   - [Postgrest](https://postgrest.org/en/v7.0.0/) compatible API 를 지원합니다.
-- 📝 **Edge Functions**
+- 📝 **Functions**
   - TBD 
 - ⏰ **Realtime**
   - TBD
 - 🧩 **Vertical API extensions**
   - TBD
 
-## ⚡ Chatting Interface
+## ⚡ Chatbot Interface
 shaple 은 자체 개발한 LLM 모델 기반으로 만든 Configuration chatbot을 통해 쉽게 원하는 기능을 포함하도록 프로젝트를 쉽게 구성할 수 있습니다.
 
 사용자는 챗봇을 통해 서비스 기능을 자세히 설명하기만 하면, 챗봇이 요구사항을 분석하여 필요한 기능을 포함하는 Configuration 을 생성합니다.
